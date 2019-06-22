@@ -1,0 +1,54 @@
+---
+layout: default
+title: CV
+permalink: /cv
+---
+
+<!-- Set up date formats -->
+{%- assign yearFull = site.minima.date_format | default: "%Y" -%} {%- assign
+yearShort = site.minima.date_format | default: "%y" -%}
+
+<!-- Single table for entire CV -->
+<table class="clean">
+  <!-- Main CV -->
+  {%- assign experienceTypes = "Education, Experience, Teaching, Awards,
+  Leadership, Service, Talks" | split: ", "-%} {%- for experienceType in
+  experienceTypes -%} {%- assign experienceSet = site.data.CV |
+  where:"include","TRUE" | where:"type", experienceType | sort: "dateStart"|
+  reverse -%} {%- if experienceSet.size > 0 -%}
+  <tr>
+    <td colspan="2">
+      <h2 class="section">{{ experienceType }}</h2>
+    </td>
+  </tr>
+  {%- for experience in experienceSet -%}
+  <tr>
+    {%- capture startDate -%}{{
+      experience.dateStart | date: yearFull
+    }}{%- endcapture -%} {%- capture endDate -%}{{
+      experience.dateEnd | date: yearFull
+    }}{%- endcapture -%}
+    <td class="left light small">
+      {{ experience.dateStart | date: yearFull }} {%- if startDate != endDate
+      -%} {%- if experience.dateEnd -%} –{{
+        experience.dateEnd | date: yearShort
+      }}
+      {%- else -%} {{ "→" }} {%- endif -%} {%- endif -%}
+    </td>
+    <td class="row">
+      {% if experience.institutionURL %}<a
+        href="{{ experience.institutionURL }}"
+        >{%endif%} <strong>{{ experience.institutionFull }}</strong
+        >{% if experience.institutionURL %}</a
+      >{%endif%}{% if experience.institutionShort %}
+      <span class="smallCaps">({{ experience.institutionShort }})</span>{% endif
+      %}{% if experience.position %}, {{ experience.position }}{% if
+      experience.focus %} in {{ experience.focus }}{% endif %}{%endif%} {% if
+      experience.notes %}
+      <span class="light note">{{ experience.notes | markdownify }}</span
+      >{%endif%}
+    </td>
+  </tr>
+
+  {%- endfor -%} {%- endif -%} {%- endfor -%}
+</table>

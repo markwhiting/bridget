@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="home">
+  <!-- <h1 class="page-heading">Projects</h1> -->
+  {{ content }}
+  <ul class="post-list">
+    {% for project in site.projects %}
+        <a class="project-link" href="{{ project.url | relative_url }}">
+          {% if project.image %}
+          <img class="project-cover" src="{{ project.image | absolute_url}}" alt="{{ project.title | escape }}">
+          {% endif %}
+          <!-- <p class="project-label">{{ project.title | escape }}</p> -->
+        </a>
+    {% endfor %}
+  </ul>
+</div>
