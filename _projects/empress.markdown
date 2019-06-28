@@ -1,0 +1,53 @@
+---
+title: The Empress by Tanika Gupta
+image: “empress toddler.jpg” Photographer Patrick Baldwin
+colour: "transparent"
+---
+
+The Empress by Tanika Gupta examines the exploitation of Indian servants in Victorian London.
+
+As head puppeteer I had two jobs: to create the children and to evoke the remembered descriptions of India. The children evolved form first paper, then rope and finally to burlap figures. The paper figures were the most effective in their texture but had the disadvantage of noisy movement and tearing. The burlap kept the texture without these problems. The child merged with esthetic of crates, ropes and burlap bags of the ship. It melded well.
+
+Shadow puppetry designed to evoke the nostalgic evocations of a remembered India -- the Taj Mahal being one were less successful.
+
+The Empress was my very first puppet performance. The actors themselves were exciting and supportive to work with, however every other element of the production was a new unknown  and unnecessarily stressful. Looking back, I regard this performance and my puppets as flawed but effective.
+
+**Venue**
+
+2017
+The Embassy Theatre as Royal Central School of Speech and Drama, London
+
+“empress family.jpg” Photographer Patrick Baldwin
+“taj mahal 1.jpeg”
+
+Details of the full cast and creative team can be found here: https://www.cssd.ac.uk/event/empress 
+OK
+past in the lest of cast members complete
+
+Design and development images:
+
+“shoe control.jpg”
+“shoe control test 1.jpeg”
+“shoe control test 2.jpeg”
+
+“paper puppet and polly 1.jpg” Photographer Jenny Dee
+“paper puppet and polly 2.jpg” Photographer Jenny Dee
+
+“rope puppet 1.jpeg”
+“rope puppet 2.jpeg”
+“rope puppet 3.jpeg”
+
+“curious school notes.jpg”
+
+“taj mahal 2.jpeg”
+“taj mahal 3.jpeg”
+“screen test 1.jpeg”
+
+“india scetch 1.jpg”
+“india nature 2.jpeg”
+
+“london designs 1.jpeg”
+“london designs 3.jpeg”
+“london designs 4.jpeg”
+“london designs 2.jpeg”
+“screen test 2.jpeg”
