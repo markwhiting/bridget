@@ -44,6 +44,7 @@ Video: ?
 ![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes music excersises combined.png" | absolute_url }})
 
 Stop-motion
+
 ![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 1.jpg" | absolute_url }})
 ![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 2.jpg" | absolute_url }})
 ![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 3.jpg" | absolute_url }})
