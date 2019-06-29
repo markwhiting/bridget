@@ -10,6 +10,7 @@ An exploration of mannequin parts, creating underwater scenes, turning them into
 Collaborating with puppetry students at VŠMU, Academy of Performing Arts Bratislava, Slovakia
 
 **Director**
+
 Peter Palik
 
 **Scenography**
