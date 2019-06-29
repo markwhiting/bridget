@@ -1,6 +1,8 @@
 ---
 title: Storm Exercise
 image: /assets/StormExercise/Janina Lange Performance 1.jpeg
+startDate: 2010
+endDate: 2015
 ---
 
 Low Batt. was an exhibition at the TURF gallery in London exposing our dependency on technology.
@@ -27,7 +29,7 @@ Tim Bowditch
 2018
 TURF gallery, London
 
-![]({{ "/assets/StormExercise/Janina Lange Performance 2.jpeg" | absolute_url }})
-![]({{ "/assets/StormExercise/Janina Lange Performance 3.jpeg" | absolute_url }})
-![]({{ "/assets/StormExercise/Janina Lange Performance 4.jpeg" | absolute_url }})
-![]({{ "/assets/StormExercise/Janina Lange Performance 5.jpeg" | absolute_url }})
+![Figure]({{ "/assets/StormExercise/Janina Lange Performance 2.jpeg" | absolute_url }})
+![Figure]({{ "/assets/StormExercise/Janina Lange Performance 3.jpeg" | absolute_url }})
+![Figure]({{ "/assets/StormExercise/Janina Lange Performance 4.jpeg" | absolute_url }})
+![Figure]({{ "/assets/StormExercise/Janina Lange Performance 5.jpeg" | absolute_url }})

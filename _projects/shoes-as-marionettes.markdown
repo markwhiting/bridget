@@ -1,6 +1,8 @@
 ---
 title: Shoes as Marionettes
 image: /assets/ShoePhilosophy/MarrionetteShoes/0 shoes together.png
+startDate: 2010
+endDate: 2015
 ---
 
 As a final project in an internship at the Puppet Theatre Barge, a marionette theatre in London, I made my first performance with shoes. Marionette Shoes.
@@ -32,48 +34,48 @@ Royal Central School of Speech and Drama, London
 
 First ideas of a shoe marionette show. A traveling show in a box.
 
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe box notes 1.png" | absolute_url }})
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe box notes 2.png" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe box notes 1.png" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe box notes 2.png" | absolute_url }})
 
 Storyboard of the Little Shoe and the Big Boot
 
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 1.png" | absolute_url }})
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 2.png" | absolute_url }})
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 3.png" | absolute_url }})
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 4 the sock.png" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 1.png" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 2.png" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 3.png" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 4 the sock.png" | absolute_url }})
 
 Controls for all participants: the Little Shoe, the Boot, the mirror and the handkerchief.
 
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control1 notes boot.png" | absolute_url }})
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control2 notes boot.png" | absolute_url }})
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control3 notes shoe.png" | absolute_url }})
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control4 notes other.png" | absolute_url }})
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/controls5 made.jpg" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control1 notes boot.png" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control2 notes boot.png" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control3 notes shoe.png" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control4 notes other.png" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/controls5 made.jpg" | absolute_url }})
 
 The result:
 Admiring
 
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes2 admiring.jpg" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes2 admiring.jpg" | absolute_url }})
 
 Big Boot enters, Little Shoe is surprised
 
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes3 jump.jpg" | absolute_url }})
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes4 surprise.jpg" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes3 jump.jpg" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes4 surprise.jpg" | absolute_url }})
 
 Introduction, Little Shoe is dubious
 
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes5 introduction.jpg" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes5 introduction.jpg" | absolute_url }})
 
 Big Boot gets a clean
 
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes6 cleaning.jpg" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes6 cleaning.jpg" | absolute_url }})
 
 Dancing, apart and together
 
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes7 boot.jpg" | absolute_url }})
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes8 boot.jpg" | absolute_url }})
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes9 dancing.jpg" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes7 boot.jpg" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes8 boot.jpg" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes9 dancing.jpg" | absolute_url }})
 
 Ending with an embrace
 
-![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes11 embrace.jpg" | absolute_url }})
+![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes11 embrace.jpg" | absolute_url }})

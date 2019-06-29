@@ -1,6 +1,8 @@
 ---
 title: The Nose
 image: /assets/The Nose/the nose 1.png
+startDate: 2010
+endDate: 2015
 ---
 
 <!-- this is a potential header item: background: "image" -->
@@ -51,28 +53,28 @@ Local Schools
 
 Performance images:
 
-![]({{ "/assets/The Nose/the nose 2.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 3.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 4.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 5.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 6.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 7.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 8.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 9.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 10.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 11.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 12.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 13.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 14.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 2.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 3.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 4.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 5.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 6.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 7.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 8.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 9.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 10.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 11.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 12.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 13.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 14.png" | absolute_url }})
 
 Rehearsal images:
 
-![]({{ "/assets/The Nose/the nose 15.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 16.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 17.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 18.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 19.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 20.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 21.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 22.png" | absolute_url }})
-![]({{ "/assets/The Nose/the nose 23.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 15.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 16.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 17.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 18.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 19.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 20.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 21.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 22.png" | absolute_url }})
+![Figure]({{ "/assets/The Nose/the nose 23.png" | absolute_url }})

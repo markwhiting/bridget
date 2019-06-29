@@ -1,6 +1,8 @@
 ---
 title: Frog & Princess
 image: /assets/FrogPrincess/1 F&P.jpeg
+startDate: 2010
+endDate: 2015
 ---
 
 The Princess, tired of her ice confined within the palace domain, controlled by servants and restricted by etiquette lessons, would much prefer to be playing in the mud outside. When her ball bounces over the palace garden walls she is determined to follow it, into the forest where, inevitably she meets a frog. Do you think they will be friends?
@@ -26,18 +28,18 @@ Toured to venues throughout England
 
 [More about the production](http://www.puppettheatre.co.uk/whats-on/puppetry/frog-and-princess)
 
-![]({{ "/assets/FrogPrincess/F&P together.jpeg" | absolute_url }})
-![]({{ "/assets/FrogPrincess/F&P front&side.png" | absolute_url }})
+![Figure]({{ "/assets/FrogPrincess/F&P together.jpeg" | absolute_url }})
+![Figure]({{ "/assets/FrogPrincess/F&P front&side.png" | absolute_url }})
 
 Images from rehearsal depicting Aya Nakamura and Paul Mills:
 
-![]({{ "/assets/FrogPrincess/F&P fight 1.jpg" | absolute_url }})
-![]({{ "/assets/FrogPrincess/F&P fight 2.jpeg" | absolute_url }})
-![]({{ "/assets/FrogPrincess/F&P fight 3.jpeg" | absolute_url }})
-![]({{ "/assets/FrogPrincess/F&P fight 5.jpeg" | absolute_url }})
-![]({{ "/assets/FrogPrincess/F&P fight 6.jpeg" | absolute_url }})
-![]({{ "/assets/FrogPrincess/F&P fight 7.jpeg" | absolute_url }})
-![]({{ "/assets/FrogPrincess/F&P forest 1.jpeg" | absolute_url }})
-![]({{ "/assets/FrogPrincess/F&P forest 2.jpeg" | absolute_url }})
-![]({{ "/assets/FrogPrincess/F&P forest 3.jpeg" | absolute_url }})
-![]({{ "/assets/FrogPrincess/F&P forest 4.jpeg" | absolute_url }})
+![Figure]({{ "/assets/FrogPrincess/F&P fight 1.jpg" | absolute_url }})
+![Figure]({{ "/assets/FrogPrincess/F&P fight 2.jpeg" | absolute_url }})
+![Figure]({{ "/assets/FrogPrincess/F&P fight 3.jpeg" | absolute_url }})
+![Figure]({{ "/assets/FrogPrincess/F&P fight 5.jpeg" | absolute_url }})
+![Figure]({{ "/assets/FrogPrincess/F&P fight 6.jpeg" | absolute_url }})
+![Figure]({{ "/assets/FrogPrincess/F&P fight 7.jpeg" | absolute_url }})
+![Figure]({{ "/assets/FrogPrincess/F&P forest 1.jpeg" | absolute_url }})
+![Figure]({{ "/assets/FrogPrincess/F&P forest 2.jpeg" | absolute_url }})
+![Figure]({{ "/assets/FrogPrincess/F&P forest 3.jpeg" | absolute_url }})
+![Figure]({{ "/assets/FrogPrincess/F&P forest 4.jpeg" | absolute_url }})

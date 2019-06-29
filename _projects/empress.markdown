@@ -1,7 +1,8 @@
 ---
 title: The Empress
 image: /assets/Empress/empress toddler.jpg
-colour: "transparent"
+startDate: 2010
+endDate: 2015
 ---
 
 Photographer Patrick Baldwin
@@ -20,7 +21,7 @@ The Empress was my very first puppet performance. The actors themselves were exc
 The Embassy Theatre as Royal Central School of Speech and Drama, London
 
 ![Laos with Korean internet volunteers - Photographer Patrick Baldwin]({{ "/assets/Empress/empress family.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Empress/taj mahal 1.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/taj mahal 1.jpeg" | absolute_url }})
 
 Details of the full cast and creative team can be found here: https://www.cssd.ac.uk/event/empress
 OK
@@ -28,28 +29,28 @@ past in the lest of cast members complete
 
 ## Design and development images
 
-![Laos with Korean internet volunteers]({{ "/assets/Empress/shoe controls.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Empress/shoe control test 1.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Empress/shoe control test 2.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/shoe controls.jpg" | absolute_url }})
+![Figure]({{ "/assets/Empress/shoe control test 1.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/shoe control test 2.jpeg" | absolute_url }})
 
 ![Laos with Korean internet volunteers - Photographer Jenny Dee]({{ "/assets/Empress/paper puppet and polly 1.jpg" | absolute_url }})
 ![Laos with Korean internet volunteers - Photographer Jenny Dee]({{ "/assets/Empress/paper puppet and polly 2.jpg" | absolute_url }})
 
-![Laos with Korean internet volunteers]({{ "/assets/Empress/rope puppet 1.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Empress/rope puppet 2.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Empress/rope puppet 3.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/rope puppet 1.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/rope puppet 2.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/rope puppet 3.jpeg" | absolute_url }})
 
-![Laos with Korean internet volunteers]({{ "/assets/Empress/curious school notes.jpg" | absolute_url }})
+![Figure]({{ "/assets/Empress/curious school notes.jpg" | absolute_url }})
 
-![Laos with Korean internet volunteers]({{ "/assets/Empress/taj mahal 2.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Empress/taj mahal 3.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Empress/screen test 1.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/taj mahal 2.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/taj mahal 3.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/screen test 1.jpeg" | absolute_url }})
 
-![Laos with Korean internet volunteers]({{ "/assets/Empress/india scetch 1.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Empress/india nature 2.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/india scetch 1.jpg" | absolute_url }})
+![Figure]({{ "/assets/Empress/india nature 2.jpeg" | absolute_url }})
 
-![Laos with Korean internet volunteers]({{ "/assets/Empress/london designs 1.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Empress/london designs 3.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Empress/london designs 4.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Empress/london designs 2.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Empress/screen test 2.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/london designs 1.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/london designs 3.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/london designs 4.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/london designs 2.jpeg" | absolute_url }})
+![Figure]({{ "/assets/Empress/screen test 2.jpeg" | absolute_url }})
