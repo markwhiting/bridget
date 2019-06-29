@@ -12,16 +12,20 @@ An exploration of mannequin parts, creating underwater scenes, turning them into
 Collaborating with puppetry students at [VŠMU](https://www.vsmu.sk/en/), Academy of Performing Arts Bratislava, Slovakia
 
 ## Director
+
 - Peter Palik
 
 ## Scenography
+
 - Juliána Dubovská
 
 ## Producers
+
 - Michaela Malková
 - Alena Solovicová
 
 ## Performers
+
 - Tekla Benczi
 - Swann Garnier
 - Lukáš Jurko
@@ -33,7 +37,9 @@ Collaborating with puppetry students at [VŠMU](https://www.vsmu.sk/en/), Academ
 - Bridget Whiting
 
 ## Venue
+
 ### 2019
+
 VŠMU, Academy of Performing Arts Bratislava, Slovakia
 
 ![]({{ "/assets/Anatomia/anatomia 1.jpg" | absolute_url }})

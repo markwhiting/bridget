@@ -1,5 +1,5 @@
 ---
-title: The Frog & the Princess
+title: Frog & Princess
 image: /assets/FrogPrincess/1 F&P.jpeg
 ---
 

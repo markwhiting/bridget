@@ -7,22 +7,25 @@ layout: default
   {{ content }}
   <ul class="post-list">
     {% for project in site.projects %}
-    <a class="project-link" href="{{ project.url | relative_url }}">
-      {% if project.image %}
-      <img
-        class="project-cover"
-        src="{{ project.image | absolute_url }}"
-        alt="{{ project.title | escape }}"
-      />
-      <p class="project-label">
-        <strong>{{ project.title | escape }}</strong>
-      </p>
-      <p class="project-label">
-        {{ project.startDate | escape }}–{{ project.endDate | escape }}
-      </p>
-      {% endif %}
-      <!-- <p class="project-label">{{ project.title | escape }}</p> -->
-    </a>
+    <li>
+      <a class="project-link" href="{{ project.url | relative_url }}">
+        {% if project.image %}
+        <img
+          class="project-cover"
+          src="{{ project.image | absolute_url }}"
+          alt="{{ project.title | escape }}"
+        />
+        <p class="project-label">
+          <strong>{{ project.title | escape }}</strong>
+        </p>
+        {% if project.endDate %}
+        <p class="project-label" style="font-size: x-small;">
+          {% if project.startDate %}{{ project.startDate | escape }}–{%- endif
+          -%}{{ project.endDate | escape }}
+        </p>
+        {% endif %} {% endif %}
+      </a>
+    </li>
     {% endfor %}
   </ul>
 </div>

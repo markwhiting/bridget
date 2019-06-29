@@ -184,8 +184,10 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-
+  align-items: flex-start;
   > li {
+    padding: 0;
+    margin: 0;
     margin-bottom: $spacing-unit;
   }
 }
@@ -200,14 +202,18 @@
   @include relative-font-size(1.5);
 }
 
-.project-link {
+.project-link,
+.project-link:hover,
+.project-link:visited {
   position: relative;
+  color: black;
+  text-decoration: none;
 }
 
 .project-cover {
   height: $spacing-unit * 5;
   padding: $spacing-unit/30;
-  margin: $spacing-unit * 0.5;
+  margin: 0 $spacing-unit * 0.5;
 }
 
 .project-cover:hover {
@@ -216,11 +222,10 @@
 
 .project-label {
   width: 100%;
+  font-size: smaller;
+  margin: 0;
+  padding: 0;
   text-align: center;
-  a {
-    text-decoration: none;
-    color: black;
-  }
 }
 
 /**
