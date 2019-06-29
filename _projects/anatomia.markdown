@@ -1,6 +1,8 @@
 ---
 title: Anatomia
 image: /assets/Anatomia/anatomia 0.jpg
+startDate: 2010
+endDate: 2015
 ---
 
 Parts of mannequins come to life as animals, grotesques, giants …..
@@ -34,16 +36,16 @@ Bridget Whiting
 2019
 VŠMU, Academy of Performing Arts Bratislava, Slovakia
 
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 1.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 2.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 3.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 4.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 5.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 6.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 8.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 9.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 10.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 11.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 12.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 13.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 14.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 1.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 2.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 3.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 4.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 5.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 6.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 8.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 9.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 10.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 11.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 12.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 13.jpg" | absolute_url }})
+![]({{ "/assets/Anatomia/anatomia 14.jpg" | absolute_url }})

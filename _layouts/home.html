@@ -1,17 +1,28 @@
 ---
 layout: default
 ---
+
 <div class="home">
   <!-- <h1 class="page-heading">Projects</h1> -->
   {{ content }}
   <ul class="post-list">
     {% for project in site.projects %}
-        <a class="project-link" href="{{ project.url | relative_url }}">
-          {% if project.image %}
-          <img class="project-cover" src="{{ project.image | absolute_url}}" alt="{{ project.title | escape }}">
-          {% endif %}
-          <!-- <p class="project-label">{{ project.title | escape }}</p> -->
-        </a>
+    <a class="project-link" href="{{ project.url | relative_url }}">
+      {% if project.image %}
+      <img
+        class="project-cover"
+        src="{{ project.image | absolute_url }}"
+        alt="{{ project.title | escape }}"
+      />
+      <p class="project-label">
+        <strong>{{ project.title | escape }}</strong>
+      </p>
+      <p class="project-label">
+        {{ project.startDate | escape }}–{{ project.endDate | escape }}
+      </p>
+      {% endif %}
+      <!-- <p class="project-label">{{ project.title | escape }}</p> -->
+    </a>
     {% endfor %}
   </ul>
 </div>

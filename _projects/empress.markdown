@@ -1,5 +1,5 @@
 ---
-title: The Empress by Tanika Gupta
+title: The Empress
 image: /assets/Empress/empress toddler.jpg
 colour: "transparent"
 ---

@@ -27,7 +27,7 @@ Tim Bowditch
 2018
 TURF gallery, London
 
-![Laos with Korean internet volunteers]({{ "/assets/StormExercise/Janina Lange Performance 2.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/StormExercise/Janina Lange Performance 3.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/StormExercise/Janina Lange Performance 4.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/StormExercise/Janina Lange Performance 5.jpeg" | absolute_url }})
+![]({{ "/assets/StormExercise/Janina Lange Performance 2.jpeg" | absolute_url }})
+![]({{ "/assets/StormExercise/Janina Lange Performance 3.jpeg" | absolute_url }})
+![]({{ "/assets/StormExercise/Janina Lange Performance 4.jpeg" | absolute_url }})
+![]({{ "/assets/StormExercise/Janina Lange Performance 5.jpeg" | absolute_url }})

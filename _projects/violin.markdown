@@ -23,10 +23,11 @@ Royal Central School of Speech and Drama, London
 
 Photographer of performance images Jemima Yong
 
-![Laos with Korean internet volunteers]({{ "/assets/Violin/1 heading.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Violin/2 the dance.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Violin/3 shadow.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Violin/4 lonely.jpeg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Violin/5 off stage.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Violin/6 face to face 1.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/Violin/7 face to face 2.jpeg" | absolute_url }})
+![]({{ "/assets/Violin/1 heading.jpeg" | absolute_url }})
+![]({{ "/assets/Violin/2 the dance.jpeg" | absolute_url }})
+![]({{ "/assets/Violin/3 shadow.jpeg" | absolute_url }})
+![]({{ "/assets/Violin/4 lonely.jpeg" | absolute_url }})
+![]({{ "/assets/Violin/5 off stage.jpg" | absolute_url }})
+
+<!-- ![]({{ "/assets/Violin/6 face to face 1.jpg" | absolute_url }})
+![]({{ "/assets/Violin/7 face to face 2.jpeg" | absolute_url }}) -->

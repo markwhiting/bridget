@@ -3,9 +3,14 @@ layout: default
 ---
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h1 class="post-title" itemprop="name headline">
+      {{ page.title | escape }}
+      <img
+        src="{{ page.image | absolute_url }}"
+        alt="{{ page.title | escape }}"
+      />
+    </h1>
     <!-- <p class="post-meta">More of the same</p> -->
   </header>
 

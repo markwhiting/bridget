@@ -32,48 +32,48 @@ Royal Central School of Speech and Drama, London
 
 First ideas of a shoe marionette show. A traveling show in a box.
 
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe box notes 1.png" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe box notes 2.png" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe box notes 1.png" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe box notes 2.png" | absolute_url }})
 
 Storyboard of the Little Shoe and the Big Boot
 
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 1.png" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 2.png" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 3.png" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 4 the sock.png" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 1.png" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 2.png" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 3.png" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe and boot notes 4 the sock.png" | absolute_url }})
 
 Controls for all participants: the Little Shoe, the Boot, the mirror and the handkerchief.
 
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control1 notes boot.png" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control2 notes boot.png" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control3 notes shoe.png" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control4 notes other.png" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/controls5 made.jpg" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control1 notes boot.png" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control2 notes boot.png" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control3 notes shoe.png" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control4 notes other.png" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/controls5 made.jpg" | absolute_url }})
 
 The result:
 Admiring
 
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes2 admiring.jpg" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes2 admiring.jpg" | absolute_url }})
 
 Big Boot enters, Little Shoe is surprised
 
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes3 jump.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes4 surprise.jpg" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes3 jump.jpg" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes4 surprise.jpg" | absolute_url }})
 
 Introduction, Little Shoe is dubious
 
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes5 introduction.jpg" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes5 introduction.jpg" | absolute_url }})
 
 Big Boot gets a clean
 
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes6 cleaning.jpg" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes6 cleaning.jpg" | absolute_url }})
 
 Dancing, apart and together
 
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes7 boot.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes8 boot.jpg" | absolute_url }})
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes9 dancing.jpg" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes7 boot.jpg" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes8 boot.jpg" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes9 dancing.jpg" | absolute_url }})
 
 Ending with an embrace
 
-![Laos with Korean internet volunteers]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes11 embrace.jpg" | absolute_url }})
+![]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoes11 embrace.jpg" | absolute_url }})
