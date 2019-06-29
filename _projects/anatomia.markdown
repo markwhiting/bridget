@@ -3,35 +3,42 @@ title: Anatomia
 image: /assets/Anatomia/anatomia 0.jpg
 ---
 
-Parts of mannequins come to life as animals, grotesques, giants …..
+Parts of mannequins come to life as animals, grotesques, giants...
 
 An exploration of mannequin parts, creating underwater scenes, turning them into animals or complex creatures or simply taking an object and using it to indicate its other being — a hand becomes a telephone, an arm becomes a guide stick for the blind. This was an exercise in object theatre which was made into a performance — fracturing the known to create the unknown.
 
 Collaborating with puppetry students at VŠMU, Academy of Performing Arts Bratislava, Slovakia
 
-**Director**
-Peter Palik
+| | |
+|:--|:--|
+| Director | Peter Palik |
+| Scenography | Juliána Dubovská |
+| Producers | Michaela Malková, Alena Solovicová |
+| Venue | **2019** Michaela Malková, Alena Solovicová <br>**2019** Michaela Malková, Alena Solovicová |
 
-**Scenography**
-Juliána Dubovská
+## Director
+- Peter Palik
 
-**Producers**
-Michaela Malková
-Alena Solovicová
+## Scenography
+- Juliána Dubovská
 
-**Performers**
-Tekla Benczi
-Swann Garnier
-Lukáš Jurko
-Yania Peri
-Patricia Sopkovičová
-Eva Stenseng
-Andrej Šandula
-Lenka Škoricová
-Bridget Whiting
+## Producers
+- Michaela Malková
+- Alena Solovicová
 
-**Venue**
-2019
+## Performers
+- Tekla Benczi
+- Swann Garnier
+- Lukáš Jurko
+- Yania Peri
+- Patricia Sopkovičová
+- Eva Stenseng
+- Andrej Šandula
+- Lenka Škoricová
+- Bridget Whiting
+
+## Venue
+### 2019
 VŠMU, Academy of Performing Arts Bratislava, Slovakia
 
 ![Laos with Korean internet volunteers]({{ "/assets/Anatomia/anatomia 1.jpg" | absolute_url }})
