@@ -8,7 +8,7 @@ Perhaps almost a self portrait, this glove puppet, half human half angle, was in
 
 Made in a workshop with Isabel Lyster
 
-Finished
+## Finished
 
 ![Laos with Korean internet volunteers]({{ "/assets/GlovePuppet/GP finished 1.jpeg" | absolute_url }})
 ![Laos with Korean internet volunteers]({{ "/assets/GlovePuppet/GP finished 2.jpeg" | absolute_url }})
@@ -21,7 +21,7 @@ Finished
 ![Laos with Korean internet volunteers]({{ "/assets/GlovePuppet/GP finished 7.jpeg" | absolute_url }})
 ![Laos with Korean internet volunteers]({{ "/assets/GlovePuppet/GP finished 8.jpeg" | absolute_url }})
 
-The Process
+## The Process
 
 ![Laos with Korean internet volunteers]({{ "/assets/GlovePuppet/GP process 1.jpeg" | absolute_url }})
 ![Laos with Korean internet volunteers]({{ "/assets/GlovePuppet/GP process 1.jpeg" | absolute_url }})
@@ -39,6 +39,6 @@ The Process
 ![Laos with Korean internet volunteers]({{ "/assets/GlovePuppet/GP process 14.jpeg" | absolute_url }})
 ![Laos with Korean internet volunteers]({{ "/assets/GlovePuppet/GP process 15.jpeg" | absolute_url }})
 
-Puppeteer and Puppet
+## Puppeteer and Puppet
 
 ![Laos with Korean internet volunteers]({{ "/assets/GlovePuppet/GP puppet and puppeter.jpeg" | absolute_url }})

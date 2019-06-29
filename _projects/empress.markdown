@@ -26,7 +26,7 @@ Details of the full cast and creative team can be found here: https://www.cssd.a
 OK
 past in the lest of cast members complete
 
-Design and development images:
+## Design and development images
 
 ![Laos with Korean internet volunteers]({{ "/assets/Empress/shoe controls.jpg" | absolute_url }})
 ![Laos with Korean internet volunteers]({{ "/assets/Empress/shoe control test 1.jpeg" | absolute_url }})
