@@ -1,12 +1,12 @@
 ---
 title: Tabletop Puppet
 image: /assets/TabletopPuppet/TP 0 trio.png
-end: 2019-01-01
+end: 2017-02-01
 ---
 
 <!-- this is a potential header item: background: "image" -->
 
-Yet to be finished, a table top puppet struggling to live.
+Yet to be finished. A table top puppet struggling to live.
 
 Made in a workshop with Isabel Lyster
 
