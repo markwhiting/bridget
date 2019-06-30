@@ -33,7 +33,7 @@ I enjoyed the work, people and working in a gallery very much, would like to do 
 
 - TURF gallery, London
 
-[![Figure]({{ "/assets/StormExercise/Janina Lange Performance 2.jpeg" | absolute_url }})]({{ "/assets/StormExercise/Janina Lange Performance 2.jpeg" | absolute_url }})
-[![Figure]({{ "/assets/StormExercise/Janina Lange Performance 3.jpeg" | absolute_url }})]({{ "/assets/StormExercise/Janina Lange Performance 3.jpeg" | absolute_url }})
-[![Figure]({{ "/assets/StormExercise/Janina Lange Performance 4.jpeg" | absolute_url }})]({{ "/assets/StormExercise/Janina Lange Performance 4.jpeg" | absolute_url }})
-[![Figure]({{ "/assets/StormExercise/Janina Lange Performance 5.jpeg" | absolute_url }})]({{ "/assets/StormExercise/Janina Lange Performance 5.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/StormExercise/Janina Lange Performance 2.jpeg" | absolute_url }})]({{ "/assets big/StormExercise/Janina Lange Performance 2.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/StormExercise/Janina Lange Performance 3.jpeg" | absolute_url }})]({{ "/assets big/StormExercise/Janina Lange Performance 3.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/StormExercise/Janina Lange Performance 4.jpeg" | absolute_url }})]({{ "/assets big/StormExercise/Janina Lange Performance 4.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/StormExercise/Janina Lange Performance 5.jpeg" | absolute_url }})]({{ "/assets big/StormExercise/Janina Lange Performance 5.jpeg" | absolute_url }})
