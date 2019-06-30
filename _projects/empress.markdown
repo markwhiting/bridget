@@ -1,8 +1,8 @@
 ---
 title: Empress
 image: /assets/Empress/empress toddler.jpg
-start: 2016-01-01
-end: 2017-05-01
+start: 2017-04-10
+end: 2017-07-25
 ---
 
 Photographer Patrick Baldwin

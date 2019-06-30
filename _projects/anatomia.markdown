@@ -1,13 +1,13 @@
 ---
 title: Anatomia
 image: /assets/Anatomia/anatomia 0.jpg
-start: 2016-02-11
+start: 2019-02-11
 end: 2019-02-22
 ---
 
 Parts of mannequins come to life as animals, grotesques, giants...
 
-An exploration of mannequin parts, creating underwater scenes, turning them into animals or complex creatures or simply taking an object and using it to indicate its other being — a hand becomes a telephone, an arm becomes a guide stick for the blind. This was an exercise in object theatre which was made into a performance — fracturing the known to create the unknown.
+An exploration of mannequin parts: creating underwater scenes; turning them into animals or complex creatures; reversing the meaning of an opject — a hand becomes a telephone, an arm becomes a guide stick for the blind. This was an exercise in object theatre which was made into a performance.
 
 Collaborating with puppetry students at [VŠMU](https://www.vsmu.sk/en/), Academy of Performing Arts Bratislava, Slovakia.
 
@@ -40,7 +40,7 @@ Collaborating with puppetry students at [VŠMU](https://www.vsmu.sk/en/), Academ
 
 ### 2019
 
-- VŠMU, Academy of Performing Arts Bratislava, Slovakia
+- [VŠMU](https://www.vsmu.sk/en/), Academy of Performing Arts Bratislava, Slovakia
 
 [![Figure]({{ "/assets/Anatomia/anatomia 1.jpg" | absolute_url }})]({{ "/assets big/Anatomia/anatomia 1.jpg" | absolute_url }})
 [![Figure]({{ "/assets/Anatomia/anatomia 2.jpg" | absolute_url }})]({{ "/assets big/Anatomia/anatomia 2.jpg" | absolute_url }})

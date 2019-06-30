@@ -1,7 +1,7 @@
 ---
 title: Shoes as Marionettes
 image: /assets/ShoePhilosophy/MarrionetteShoes/0 shoes together.png
-end: 2017-01-01
+end: 2017-10-08
 ---
 
 As a final project in an internship at the Puppet Theatre Barge, a marionette theatre in London, I made my first performance with shoes. Marionette Shoes.
