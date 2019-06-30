@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who I am
+title: About
 permalink: /about
 ---
 
