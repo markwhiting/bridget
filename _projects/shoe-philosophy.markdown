@@ -1,8 +1,8 @@
 ---
 title: Shoe Philosophy
 image: /assets/ShoePhilosophy/ShoeOpera/shoe philosophy.png
-start: 2018-01-01
-end: 2019-01-01
+start: 2016-09-12
+end: 2019-07-30
 ---
 
 <!-- this is a potential header item: background: "image" -->
