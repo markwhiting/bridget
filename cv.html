@@ -10,11 +10,21 @@ yearShort = site.minima.date_format | default: "%y" -%}
 
 <!-- Single table for entire CV -->
 <table class="clean">
+  <tr>
+    <td></td>
+    <td class="row">
+      <strong>Puppeteer, foley artist, and shoe conductor.</strong>
+      <p class="light note">
+        <a href="mailto:bridget.whiting@gmail.com">bridget.whiting@gmail.com</a>
+        or +44 (0)75 9999 6003
+      </p>
+    </td>
+  </tr>
   <!-- Main CV -->
-  {%- assign experienceTypes = "Education, Productions" | split: ", "-%} {%- for
-  experienceType in experienceTypes -%} {%- assign experienceSet = site.data.CV
-  | where:"type", experienceType | sort: "dateStart"| reverse -%} {%- if
-  experienceSet.size > 0 -%}
+  {%- assign experienceTypes = "Education,Productions,References" | split:
+  ","-%} {%- for experienceType in experienceTypes -%} {%- assign experienceSet
+  = site.data.CV | where:"type", experienceType | sort: "dateStart"| reverse -%}
+  {%- if experienceSet.size > 0 -%}
   <tr>
     <td colspan="2">
       <h2 class="section">{{ experienceType }}</h2>
@@ -38,12 +48,37 @@ yearShort = site.minima.date_format | default: "%y" -%}
       {% if experience.url %}<a href="{{ experience.url }}"
         >{%endif%} <strong>{{ experience.title }}</strong
         >{% if experience.url %}</a
-      >{%endif%}{% if experience.location %} in
-      {{ experience.location }}{%endif%} {% if experience.notes %}
+      >{%endif%}{% if experience.location %}, {{ experience.location }}{%endif%}
+      {% if experience.notes %}
       <span class="light note">{{ experience.notes | markdownify }}</span
       >{%endif%}
     </td>
   </tr>
 
   {%- endfor -%} {%- endif -%} {%- endfor -%}
+  <tr>
+    <td colspan="2">
+      <h2 class="section">References</h2>
+    </td>
+  </tr>
+  <tr>
+    <td class="left light small">Darren East</td>
+    <td class="row">
+      Puppeteer and Puppet Director, Co-founder of the Brighton Puppetry School
+      <p class="light note">
+        <a href="mailto:darreneast@gmail.com">darreneast@gmail.com</a> or
+        TouchedTheatre 7 Cliff Rd, Brighton BN2 5RD, United Kingdom
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="left light small">Ruth Sullivan</td>
+    <td class="row">
+      Foley Artist and Actor
+      <p class="light note">
+        <a href="mailto:rubyrocks76@gmail.com">rubyrocks76@gmail.com</a> or +44
+        (0)79 7027 9061
+      </p>
+    </td>
+  </tr>
 </table>

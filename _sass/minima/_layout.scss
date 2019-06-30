@@ -293,19 +293,19 @@ h1 {
 }
 
 .section {
-  margin: $visual-space 0 0 0;
+  margin: $spacing-unit 0 0 0;
 }
 
 .row,
 .row p {
-  padding-bottom: $visual-space * 1/10;
+  padding-bottom: $spacing-unit * 1/10;
 }
 
 .left {
   white-space: nowrap;
   text-align: right;
   vertical-align: top;
-  padding-right: $visual-space;
+  padding-right: $spacing-unit/5;
 }
 
 .bottom {
@@ -318,7 +318,7 @@ h1 {
 }
 
 .light {
-  font-weight: $light-font-weight;
+  font-weight: 300;
   color: var(--grey-color-dark);
 }
 
