@@ -7,7 +7,7 @@ end: 2019-07-30
 
 <!-- this is a potential header item: background: "image" -->
 
-## Shoes
+# Shoes
 
 That which we slip, zip, tie, buckle, pull onto our feet everyday.
 
@@ -15,7 +15,7 @@ What does the image of a shoe evoke for you?
 
 Shoes hold the rhythm of terrestrial existence. They hold the conscious being to the earth: they bear the weight, they carry the connection, they impress the spirit of the wearer, stamping out identity, expressing everything from drudgery to dance. Their material and style tell of status. Even at rest they are poised to move: they are waiting in the wings to be filled and carried out. A metaphor for the journey.
 
-## Shoe Opera — current project
+# Shoe Opera — current project
 
 My curent project is about shoes and opera, a Shoe Opera.
 The initial idea of a Shoe Opera, an opera with shoes as protagonists, involving music, Foley, object manipulation and stop motion, came in two parts. First as a Shoe — the shoe as object expressing itself through its style and wear; and then as an Opera — a genre through which the inner life of the shoe could be emotionally felt. So what emotions can a shoe profess to hold? What can it tell of its materials, life and history?
