@@ -1,8 +1,8 @@
 ---
 title: The Nose
 image: /assets/The Nose/the nose 1.png
-start: 2018-01-01
-end: 2018-03-01
+start: 2017-10-02
+end: 2018-06-17
 ---
 
 <!-- this is a potential header item: background: "image" -->
