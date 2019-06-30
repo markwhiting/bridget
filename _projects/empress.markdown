@@ -1,5 +1,5 @@
 ---
-title: Empress
+title: The Empress
 image: /assets/Empress/empress toddler.jpg
 start: 2017-04-10
 end: 2017-07-25

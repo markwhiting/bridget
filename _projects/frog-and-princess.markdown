@@ -1,5 +1,5 @@
 ---
-title: Frog & Princess
+title: The Frog & Princess
 image: "/assets/FrogPrincess/1 F&P.jpeg"
 start: 2018-10-01
 end: 2018-10-19
