@@ -18,13 +18,13 @@ layout: default
         <p class="project-label">
           <strong>{{ project.title | escape }}</strong>
         </p>
-        <!-- {% if project.endDate %}
+        {% if project.end %}
         <p class="project-label" style="font-size: x-small;">
-          {% if project.startDate %}{{ project.startDate | escape }}–{%- endif
-          -%}{{ project.endDate | escape }}
+          {% if project.start %}{{ project.start | escape }}–{%- endif -%}{{
+            project.end | escape
+          }}
         </p>
-        {% endif %} -->
-        {% endif %}
+        {% endif %} {% endif %}
       </a>
     </li>
     {% endfor %}
