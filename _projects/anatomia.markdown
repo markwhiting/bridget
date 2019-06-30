@@ -8,7 +8,7 @@ Parts of mannequins come to life as animals, grotesques, giants...
 
 An exploration of mannequin parts, creating underwater scenes, turning them into animals or complex creatures or simply taking an object and using it to indicate its other being — a hand becomes a telephone, an arm becomes a guide stick for the blind. This was an exercise in object theatre which was made into a performance — fracturing the known to create the unknown.
 
-Collaborating with puppetry students at [VŠMU](https://www.vsmu.sk/en/), Academy of Performing Arts Bratislava, Slovakia
+Collaborating with puppetry students at [VŠMU](https://www.vsmu.sk/en/), Academy of Performing Arts Bratislava, Slovakia.
 
 ## Director
 
