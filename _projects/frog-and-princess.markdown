@@ -1,6 +1,6 @@
 ---
 title: Frog & Princess
-image: /assets/FrogPrincess/1 F&P.jpeg
+image: "/assets/FrogPrincess/1 F&P.jpeg"
 start: 2010
 end: 2019
 ---
