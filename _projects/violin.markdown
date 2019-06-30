@@ -10,16 +10,20 @@ A Violin becomes overworked, its player walks away. Lonely, the Violin does not 
 
 Wonderful playful poem.
 
-**Director and Puppet Maker**
-Svetlana Zuravska
+## Director and Puppet Maker
 
-**Manipulation**
-Bridget Whiting
-Svetlana Zuravska
+- Svetlana Zuravska
 
-**Venue**
-2017
-Royal Central School of Speech and Drama, London
+## Manipulation
+
+- Bridget Whiting
+- Svetlana Zuravska
+
+## Venue
+
+### 2017
+
+- Royal Central School of Speech and Drama, London
 
 Photographer of performance images Jemima Yong
 

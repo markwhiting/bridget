@@ -1,5 +1,5 @@
 ---
-title: The Empress
+title: Empress
 image: /assets/Empress/empress toddler.jpg
 start: 2016-01-01
 end: 2017-05-01
@@ -15,10 +15,11 @@ Shadow puppetry designed to evoke the nostalgic evocations of a remembered India
 
 The Empress was my very first puppet performance. The actors themselves were exciting and supportive to work with, however every other element of the production was a new unknown and unnecessarily stressful. Looking back, I regard this performance and my puppets as flawed but effective.
 
-**Venue**
+## Venue
 
-2017
-The Embassy Theatre as Royal Central School of Speech and Drama, London
+### 2017
+
+- The Embassy Theatre as Royal Central School of Speech and Drama, London
 
 ![Laos with Korean internet volunteers - Photographer Patrick Baldwin]({{ "/assets/Empress/empress family.jpg" | absolute_url }})
 ![Figure]({{ "/assets/Empress/taj mahal 1.jpeg" | absolute_url }})

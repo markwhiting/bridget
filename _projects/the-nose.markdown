@@ -15,43 +15,53 @@ The Nose, inspired by Gogol’s short story, was devised through a process of ma
 I was a performer, a puppet manipulator, as well as the designer
 and maker of the costumes for the cast.
 
-**Director**
-Rene Baker
+## Director
 
-**Stage Manager**
-Tobias Millard
+- Rene Baker
 
-**Designer**
-Allison Alexander
+## Stage Manager
 
-**Co-designers**
-Bryony Moores O’Sullivan
-Svetlana Zuravska
+- Tobias Millard
 
-**Puppet makers**
-Bryony Moores O’Sullivan
-Svetlana Zuravska
-Eleanor Cunningham
+## Designer
 
-**Set Construction**
-Yanai Peri
+- Allison Alexander
 
-**Costumes**
-Bridget Whiting
+## Co-designers
 
-**Cast**
-Eleanor Cunningham
-Yanai Peri
-Bryony Moores O’Sullivan
-Bridget Whiting
-Svetlana Zuravska
+- Bryony Moores O’Sullivan
+- Svetlana Zuravska
 
-**Venues**
-2018
-Little Angel Studios
-Local Schools
+## Puppet makers
 
-Performance images:
+- Bryony Moores O’Sullivan
+- Svetlana Zuravska
+- Eleanor Cunningham
+
+## Set Construction
+
+- Yanai Peri
+
+## Costumes
+
+- Bridget Whiting
+
+## Cast
+
+- Eleanor Cunningham
+- Yanai Peri
+- Bryony Moores O’Sullivan
+- Bridget Whiting
+- Svetlana Zuravska
+
+## Venues
+
+### 2018
+
+- Little Angel Studios
+- Local Schools
+
+## Performance
 
 ![Figure]({{ "/assets/The Nose/the nose 2.png" | absolute_url }})
 ![Figure]({{ "/assets/The Nose/the nose 3.png" | absolute_url }})
@@ -67,7 +77,7 @@ Performance images:
 ![Figure]({{ "/assets/The Nose/the nose 13.png" | absolute_url }})
 ![Figure]({{ "/assets/The Nose/the nose 14.png" | absolute_url }})
 
-Rehearsal images:
+## Rehearsal
 
 ![Figure]({{ "/assets/The Nose/the nose 15.png" | absolute_url }})
 ![Figure]({{ "/assets/The Nose/the nose 16.png" | absolute_url }})

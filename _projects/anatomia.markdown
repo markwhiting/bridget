@@ -39,7 +39,7 @@ Collaborating with puppetry students at [VŠMU](https://www.vsmu.sk/en/), Academ
 
 ### 2019
 
-VŠMU, Academy of Performing Arts Bratislava, Slovakia
+- VŠMU, Academy of Performing Arts Bratislava, Slovakia
 
 ![Figure]({{ "/assets/Anatomia/anatomia 1.jpg" | absolute_url }})
 ![Figure]({{ "/assets/Anatomia/anatomia 2.jpg" | absolute_url }})

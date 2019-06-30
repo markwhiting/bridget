@@ -12,21 +12,26 @@ I performed live Foley, on the invitation of Ruth Sullivan, at the opening exhib
 
 I enjoyed the work, people and working in a gallery very much, would like to do more work in a similar vein.
 
-**Director**
-Janina Lange
+## Director
 
-**Foley Artists**
-Paula Boram
-Ruth Sullivan
-Jack Baxter
-Bridget Whiting
+- Janina Lange
 
-**Photographer**
-Tim Bowditch
+## Foley Artists
 
-**Venue**
-2018
-TURF gallery, London
+- Paula Boram
+- Ruth Sullivan
+- Jack Baxter
+- Bridget Whiting
+
+## Photographer
+
+- Tim Bowditch
+
+## Venue
+
+### 2018
+
+- TURF gallery, London
 
 ![Figure]({{ "/assets/StormExercise/Janina Lange Performance 2.jpeg" | absolute_url }})
 ![Figure]({{ "/assets/StormExercise/Janina Lange Performance 3.jpeg" | absolute_url }})
