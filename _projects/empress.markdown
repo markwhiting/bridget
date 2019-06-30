@@ -1,8 +1,6 @@
 ---
 title: The Empress
 image: /assets/Empress/empress toddler.jpg
-startDate: 2010
-endDate: 2015
 ---
 
 Photographer Patrick Baldwin

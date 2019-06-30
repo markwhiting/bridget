@@ -1,7 +1,6 @@
 ---
 title: Glove Puppet
 image: /assets/GlovePuppet/GP finished 0.jpeg
-endDate: 2015
 ---
 
 Perhaps almost a self portrait, this glove puppet, half human half angle, was inspired by bent metal painted face sculpture by Picasso and Paul Klee’s puppets.

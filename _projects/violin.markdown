@@ -1,8 +1,6 @@
 ---
 title: The Violin
 image: /assets/Violin/1 heading.jpeg
-startDate: 2010
-endDate: 2015
 ---
 
 Puppet performance devised from Vladimir Mayakovskiy’s poem, “The Violin — A Little Bit Nervous” performed to Paganini’s ‘La campanella’.

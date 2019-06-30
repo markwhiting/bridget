@@ -1,8 +1,6 @@
 ---
 title: Storm Exercise
 image: /assets/StormExercise/Janina Lange Performance 1.jpeg
-startDate: 2010
-endDate: 2015
 ---
 
 Low Batt. was an exhibition at the TURF gallery in London exposing our dependency on technology.
