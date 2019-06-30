@@ -20,8 +20,8 @@ layout: default
         </p>
         {% if project.end %}
         <p class="project-label" style="font-size: x-small;">
-          {% if project.start %}{{ project.start | escape }}–{%- endif -%}{{
-            project.end | escape
+          {% if project.start %}{{ project.start | date: "%Y" }}–{%- endif -%}{{
+            project.end | date: "%Y"
           }}
         </p>
         {% endif %} {% endif %}
