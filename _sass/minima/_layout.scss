@@ -291,3 +291,70 @@ h1 {
 .date {
   margin: 0 2rem;
 }
+
+.section {
+  margin: $visual-space 0 0 0;
+}
+
+.row,
+.row p {
+  padding-bottom: $visual-space * 1/10;
+}
+
+.left {
+  white-space: nowrap;
+  text-align: right;
+  vertical-align: top;
+  padding-right: $visual-space;
+}
+
+.bottom {
+  vertical-align: bottom !important;
+}
+
+.small {
+  font-size: $small-font-size;
+  line-height: $base-line-height * $base-font-size * 1.1;
+}
+
+.light {
+  font-weight: $light-font-weight;
+  color: var(--grey-color-dark);
+}
+
+.smallCaps {
+  font-variant: all-small-caps;
+  font-variant-numeric: tabular-nums !important;
+}
+
+.button::before {
+  content: "[";
+}
+.button::after {
+  content: "]";
+}
+
+.note,
+.note p {
+  font-size: $small-font-size;
+  font-style: italic;
+  font-variant-numeric: oldstyle-nums;
+  margin-bottom: 0;
+}
+
+.clean a,
+.clean a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+.clean a:hover {
+  // text-decoration: underline;
+}
+
+.headerComment {
+  float: right;
+  padding-left: $spacing-unit;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  vertical-align: bottom;
+}
