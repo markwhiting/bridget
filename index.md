@@ -5,5 +5,4 @@
 layout: home
 ---
 
-
 <!--this should be in the header if needed: background: "/assets/background.jpg" -->

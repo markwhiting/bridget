@@ -37,6 +37,7 @@
 
   .page-link {
     color: $text-color;
+    font-weight: 400;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -320,6 +321,12 @@ h1 {
 .light {
   font-weight: 300;
   color: var(--grey-color-dark);
+  > a {
+    font-weight: 300;
+  }
+  > a:hover {
+    text-decoration: underline;
+  }
 }
 
 .smallCaps {
@@ -349,7 +356,7 @@ h1 {
 }
 
 .clean a:hover {
-  // text-decoration: underline;
+  text-decoration: underline;
 }
 
 .headerComment {
