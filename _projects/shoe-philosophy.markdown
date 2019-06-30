@@ -26,7 +26,7 @@ With this concept of a Shoe Opera I have been exploring if shoes can sing of the
 
 ## Foley — the art of making sound effects
 
-Working with Foley artist [Ruth Sullivan] (https://www.ruthsullivan.co.uk) we been testing the relationship of shoes with Foley.
+Working with Foley artist [Ruth Sullivan](https://www.ruthsullivan.co.uk) we been testing the relationship of shoes with Foley.
 
 Foley as the voice for the shoes, or their movement, or their environment….
 
