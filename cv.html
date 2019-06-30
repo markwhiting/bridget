@@ -21,7 +21,7 @@ yearShort = site.minima.date_format | default: "%y" -%}
     </td>
   </tr>
   <!-- Main CV -->
-  {%- assign experienceTypes = "Education,Productions,References" | split:
+  {%- assign experienceTypes = "Education,Experience,Productions" | split:
   ","-%} {%- for experienceType in experienceTypes -%} {%- assign experienceSet
   = site.data.CV | where:"type", experienceType | sort: "dateStart"| reverse -%}
   {%- if experienceSet.size > 0 -%}
@@ -67,44 +67,9 @@ yearShort = site.minima.date_format | default: "%y" -%}
   <tr>
     <td colspan="2">
       <h2 class="section">Skills</h2>
-      <p class="light note">Dancing, puppetry, and making.</p>
+      <p class="light note">Dancing, puppetry, object theatre, research</p>
     </td>
   </tr>
-
-  <!-- <tr>
-    <td colspan="2">
-      <h2 class="section">References</h2>
-    </td>
-  </tr>
-  <tr>
-    <td class="left light small">Rene Baker</td>
-    <td class="row">
-      Specialist in Puppet and Object Theatre
-      <p class="light note">
-        <a href="mailto:bakerrene@hotmail.com">bakerrene@hotmail.com</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td class="left light small">Ruth Sullivan</td>
-    <td class="row">
-      Foley Artist and Actor
-      <p class="light note">
-        <a href="mailto:rubyrocks76@gmail.com">rubyrocks76@gmail.com</a> & +44
-        (0)79 7027 9061
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td class="left light small">Darren East</td>
-    <td class="row">
-      Puppeteer and Puppet Director, Co-founder of the Brighton Puppetry School
-      <p class="light note">
-        <a href="mailto:darreneast@gmail.com">darreneast@gmail.com</a> &
-        TouchedTheatre 7 Cliff Rd, Brighton BN2 5RD, United Kingdom
-      </p>
-    </td>
-  </tr> -->
 
   <tr>
     <td colspan="2">
