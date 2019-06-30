@@ -8,6 +8,7 @@ layout: default
   <ul class="post-list">
     {%- assign projects = site.projects | sort: "end" | reverse -%} {% for
     project in projects %}
+
     <li>
       <a class="project-link" href="{{ project.url | relative_url }}">
         {% if project.image %}
@@ -21,9 +22,19 @@ layout: default
         </p>
         {% if project.end %}
         <p class="project-label" style="font-size: x-small;">
-          {% if project.start %}{{ project.start | date: "%Y" }}–{{
+          {%- capture startDate -%}{{ project.start | date: "%Y" }}{%-
+          endcapture -%} {%- capture endDate -%}{{
+            project.end | date: "%Y"
+          }}{%- endcapture -%} {%- if project.start -%}{{
+            project.start | date: "%Y"
+          }}
+          {%- if startDate != endDate -%}{%- if project.end -%}–{{
             project.end | date: "%y"
-          }}{% else %}{{ project.end | date: "%Y" }}{%- endif -%}
+          }}{%- else -%}
+          {{ "→" }}
+          {%- endif -%} {%- endif -%}{%- else -%}{{
+            project.end | date: "%Y"
+          }}{%- endif -%}
         </p>
         {% endif %} {% endif %}
       </a>
