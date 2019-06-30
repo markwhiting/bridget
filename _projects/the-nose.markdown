@@ -16,7 +16,7 @@ I was a performer, a puppet manipulator, as well as the designer and maker of th
 
 ## Director
 
-- Rene Baker
+- [Rene Baker](https://renebaker.org)
 
 ## Stage Manager
 
@@ -24,7 +24,7 @@ I was a performer, a puppet manipulator, as well as the designer and maker of th
 
 ## Designer
 
-- Allison Alexander
+- [Allison Alexander](http://www.alisonalexander.com)
 
 ## Co-designers
 
@@ -57,7 +57,7 @@ I was a performer, a puppet manipulator, as well as the designer and maker of th
 
 ### 2018
 
-- Little Angel Studios
+- [Little Angel Studios](https://littleangeltheatre.com)
 - Local Schools
 
 # Performance
