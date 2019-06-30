@@ -8,7 +8,7 @@ end: 2018-06-17
 <!-- this is a potential header item: background: "image" -->
 
 A Nose on a walk.
-A Nose dissatisfied with its place, firmly secured to the center of a face, decides to go for a walk, to have an adventure. It is an adventure that turns into a chase when the Nose’s owner discovers the flat place where his nose once purched. An adventure of new smells, of floating in a river, meeting a dog and a rather frightening policeman. The Owner of the Nose is on his own journey. Why did my nose leave? Look at all these new places and things I am discovering in my search...
+A Nose dissatisfied with its place, firmly secured to the center of a face, decides to go for a walk, to have an adventure. It is an adventure that turns into a chase when the Nose’s owner discovers the flatness where his nose once purched. An adventure of new smells, of floating in a river, meeting a dog and a rather frightening policeman. The Owner of the Nose is on his own journey. Why did my nose leave? Look at all these new places and things I am discovering in my search...
 The two are reunited in the end, somehow... Do you think they have been changed by the experience?
 
 The Nose, inspired by Gogol’s short story, was devised through a process of material exploration, play and improvisation.

@@ -9,7 +9,7 @@ Puppet performance devised from Vladimir Mayakovskiy’s poem, “The Violin —
 
 A Violin becomes overworked, its player walks away. Lonely, the Violin does not notice its other half — its soul-mate —emerging from the darkness. She dances. They are finally united.
 
-Wonderful playful poem.
+A wonderfully playful poem.
 
 ## Director and Puppet Maker
 

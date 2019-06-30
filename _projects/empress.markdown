@@ -5,11 +5,9 @@ start: 2017-04-10
 end: 2017-07-25
 ---
 
-Photographer Patrick Baldwin
-
 The Empress by Tanika Gupta examines the exploitation of Indian servants in Victorian London.
 
-As head puppeteer I had two jobs: to create the children and to evoke the remembered descriptions of India. The children evolved form first paper, then rope and finally to burlap figures. The paper figures were the most effective in their texture but had the disadvantage of noisy movement and tearing. The burlap kept the texture without these problems. The child merged with esthetic of crates, ropes and burlap bags of the ship. It melded well.
+As head puppeteer I had two jobs: to create the children and to evoke the remembered descriptions of India. The children evolved first from paper, then rope and finally to burlap figures. The paper figures were the most effective in their texture but had the disadvantage of noisy movement and tearing. The burlap kept the texture without these problems. The child merged with esthetic of crates, ropes and burlap bags of the ship. It melded well.
 
 Shadow puppetry designed to evoke the nostalgic evocations of a remembered India -- the Taj Mahal being one were less successful.
 
