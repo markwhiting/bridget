@@ -21,7 +21,7 @@ The initial idea of a Shoe Opera, an opera with shoes as protagonists, involving
 
 With this concept of a Shoe Opera I have been exploring if shoes can sing of themselves just as do self-reflecting protagonists in German Lieder? Or in Opera, can shoes engage in heartfelt dialogue?
 
-![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoe arch.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoe arch.jpeg" | absolute_url }})]({{ "/assets/ShoePhilosophy/ShoeOpera/shoe arch.jpeg" | absolute_url }})
 
 ## Foley — the art of making sound effects
 
@@ -31,9 +31,9 @@ Foley as the voice for the shoes, or their movement, or their environment….
 
 What we did find was that the metaphorical abstract nature of the shoe in object manipulation finds a good match in the hypernatural sound of the Foley. For a member of the audience the sounds of Foley are what bring the movements and characters of the shoes back to earth; the sound humanises the story.
 
-![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes Foley ruth and I.jpg" | absolute_url }})
-![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes Foley tools.jpeg" | absolute_url }})
-![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes Foley puddle combined.png" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes Foley ruth and I.jpg" | absolute_url }})]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes Foley ruth and I.jpg" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes Foley tools.jpeg" | absolute_url }})]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes Foley tools.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes Foley puddle combined.png" | absolute_url }})]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes Foley puddle combined.png" | absolute_url }})
 
 Music and Objects: Opera and Puppetry
 Current collaboration with sopranos Pauline Schill and Rose Stachniewska.
@@ -44,14 +44,14 @@ Opera and puppetry
 Some shoe lasts process across the stage, a little one hurries to keep up. What can they be thinking? Are they chanting Handel’s Hallelujah as they journey? Or perhaps they cry laments of sacrifice in the manner of Purcell. We enter the world of object and opera.
 Video: ?
 
-![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes music excersises combined.png" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes music excersises combined.png" | absolute_url }})]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes music excersises combined.png" | absolute_url }})
 
 ## Stop-motion
 
-![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 1.jpg" | absolute_url }})
-![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 2.jpg" | absolute_url }})
-![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 3.jpg" | absolute_url }})
-![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 4.jpg" | absolute_url }})
-![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 5.jpeg" | absolute_url }})
-![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 6.jpeg" | absolute_url }})
-![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 7.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 1.jpg" | absolute_url }})]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 1.jpg" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 2.jpg" | absolute_url }})]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 2.jpg" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 3.jpg" | absolute_url }})]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 3.jpg" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 4.jpg" | absolute_url }})]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 4.jpg" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 5.jpeg" | absolute_url }})]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 5.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 6.jpeg" | absolute_url }})]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 6.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 7.jpeg" | absolute_url }})]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes stopmotion 7.jpeg" | absolute_url }})

@@ -31,18 +31,18 @@ charged with keeping everything running smoothly: making tea at appropriate mome
 - Toured to venues throughout England
 - [More about the production](http://www.puppettheatre.co.uk/whats-on/puppetry/frog-and-princess)
 
-![Figure]({{ "/assets/FrogPrincess/F&P together.jpeg" | absolute_url }})
-![Figure]({{ "/assets/FrogPrincess/F&P front&side.png" | absolute_url }})
+[![Figure]({{ "/assets/FrogPrincess/F&P together.jpeg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P together.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/FrogPrincess/F&P front&side.png" | absolute_url }})]({{ "/assets/FrogPrincess/F&P front&side.png" | absolute_url }})
 
 Images from rehearsal depicting Aya Nakamura and Paul Mills:
 
-![Figure]({{ "/assets/FrogPrincess/F&P fight 1.jpg" | absolute_url }})
-![Figure]({{ "/assets/FrogPrincess/F&P fight 2.jpeg" | absolute_url }})
-![Figure]({{ "/assets/FrogPrincess/F&P fight 3.jpeg" | absolute_url }})
-![Figure]({{ "/assets/FrogPrincess/F&P fight 5.jpeg" | absolute_url }})
-![Figure]({{ "/assets/FrogPrincess/F&P fight 6.jpeg" | absolute_url }})
-![Figure]({{ "/assets/FrogPrincess/F&P fight 7.jpeg" | absolute_url }})
-![Figure]({{ "/assets/FrogPrincess/F&P forest 1.jpeg" | absolute_url }})
-![Figure]({{ "/assets/FrogPrincess/F&P forest 2.jpeg" | absolute_url }})
-![Figure]({{ "/assets/FrogPrincess/F&P forest 3.jpeg" | absolute_url }})
-![Figure]({{ "/assets/FrogPrincess/F&P forest 4.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/FrogPrincess/F&P fight 1.jpg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P fight 1.jpg" | absolute_url }})
+[![Figure]({{ "/assets/FrogPrincess/F&P fight 2.jpeg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P fight 2.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/FrogPrincess/F&P fight 3.jpeg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P fight 3.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/FrogPrincess/F&P fight 5.jpeg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P fight 5.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/FrogPrincess/F&P fight 6.jpeg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P fight 6.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/FrogPrincess/F&P fight 7.jpeg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P fight 7.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/FrogPrincess/F&P forest 1.jpeg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P forest 1.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/FrogPrincess/F&P forest 2.jpeg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P forest 2.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/FrogPrincess/F&P forest 3.jpeg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P forest 3.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/FrogPrincess/F&P forest 4.jpeg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P forest 4.jpeg" | absolute_url }})
