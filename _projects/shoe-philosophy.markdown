@@ -32,9 +32,9 @@ Foley as the voice for the shoes, or their movement, or their environment….
 
 What we did find was that the metaphorical abstract nature of the shoe in object manipulation finds a good match in the hypernatural sound of the Foley. For a member of the audience the sounds of Foley are what bring the movements and characters of the shoes back to earth; the sound humanises the story.
 
-[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes Foley ruth and I.jpg" | absolute_url }})]({{ "/assets big/ShoePhilosophy/ShoeOpera/shoes Foley ruth and I.jpg" | absolute_url }})
-[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes Foley tools.jpeg" | absolute_url }})]({{ "/assets big/ShoePhilosophy/ShoeOpera/shoes Foley tools.jpeg" | absolute_url }})
-[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes Foley puddle combined.png" | absolute_url }})]({{ "/assets big/ShoePhilosophy/ShoeOpera/shoes Foley puddle combined.png" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes foley ruth and I.jpg" | absolute_url }})]({{ "/assets big/ShoePhilosophy/ShoeOpera/shoes foley ruth and I.jpg" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes foley tools.jpeg" | absolute_url }})]({{ "/assets big/ShoePhilosophy/ShoeOpera/shoes foley tools.jpeg" | absolute_url }})
+[![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes foley puddle combined.png" | absolute_url }})]({{ "/assets big/ShoePhilosophy/ShoeOpera/shoes foley puddle combined.png" | absolute_url }})
 
 ## Music and Objects: Opera and Puppetry
 
