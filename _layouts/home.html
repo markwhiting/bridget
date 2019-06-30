@@ -6,7 +6,8 @@ layout: default
   <!-- <h1 class="page-heading">Projects</h1> -->
   {{ content }}
   <ul class="post-list">
-    {% for project in site.projects %}
+    {%- assign projects = site.projects | sort: "end" | reverse -%} {% for
+    project in projects %}
     <li>
       <a class="project-link" href="{{ project.url | relative_url }}">
         {% if project.image %}
@@ -20,9 +21,9 @@ layout: default
         </p>
         {% if project.end %}
         <p class="project-label" style="font-size: x-small;">
-          {% if project.start %}{{ project.start | date: "%Y" }}–{%- endif -%}{{
-            project.end | date: "%Y"
-          }}
+          {% if project.start %}{{ project.start | date: "%Y" }}–{{
+            project.end | date: "%y"
+          }}{% else %}{{ project.end | date: "%Y" }}{%- endif -%}
         </p>
         {% endif %} {% endif %}
       </a>

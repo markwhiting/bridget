@@ -1,6 +1,7 @@
 ---
 title: Marionette
 image: assets/Marionette/M 0a.jpg
+end: 2011-01-01
 ---
 
  <!-- and ![Figure]({{ "/assets/Marionette/M 0a.jpeg.jpeg" | absolute_url }}) -->

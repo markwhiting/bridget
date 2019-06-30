@@ -1,6 +1,7 @@
 ---
 title: Anatomia
 image: /assets/Anatomia/anatomia 0.jpg
+end: 2019-01-01
 ---
 
 Parts of mannequins come to life as animals, grotesques, giants...

@@ -1,6 +1,7 @@
 ---
 title: Tabletop Puppet
 image: /assets/TabletopPuppet/TP 0 trio.png
+end: 2019-01-01
 ---
 
 <!-- this is a potential header item: background: "image" -->
