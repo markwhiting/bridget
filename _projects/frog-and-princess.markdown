@@ -31,12 +31,12 @@ A role charged with keeping everything running smoothly: making tea at appropria
 - Toured to venues throughout England
 - [More about the production](http://www.puppettheatre.co.uk/whats-on/puppetry/frog-and-princess)
 
-### Puppets
+# Puppets
 [![Figure]({{ "/assets/FrogPrincess/F&P together.jpeg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P together.jpeg" | absolute_url }})
 [![Figure]({{ "/assets/FrogPrincess/F&P front&side.png" | absolute_url }})]({{ "/assets/FrogPrincess/F&P front&side.png" | absolute_url }})
 
-### Prosses
-Aya Nakamura and Paul Preston Mills depicted
+# Process
+Aya Nakamura and Paul Preston Mills depicted.
 
 [![Figure]({{ "/assets/FrogPrincess/F&P fight 1.jpg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P fight 1.jpg" | absolute_url }})
 [![Figure]({{ "/assets/FrogPrincess/F&P fight 2.jpeg" | absolute_url }})]({{ "/assets/FrogPrincess/F&P fight 2.jpeg" | absolute_url }})
