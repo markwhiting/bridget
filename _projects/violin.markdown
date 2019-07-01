@@ -5,15 +5,15 @@ start: 2017-10-02
 end: 2017-11-24
 ---
 
-Puppet performance devised from Vladimir Mayakovskiy’s poem, “The Violin — A Little Bit Nervous” performed to Paganini’s ‘La campanella’.
+A Puppet performance devised from Vladimir Mayakovskiy’s poem, “The Violin — A Little Bit Nervous” performed to Paganini’s ‘La campanella’.
 
-A Violin becomes overworked, its player walks away. Lonely, the Violin does not notice its other half — its soul-mate —emerging from the darkness. She dances. They are finally united.
+A Violin becomes overworked, its musician walks away. Lonely, the Violin does not notice its other half — its soul-mate —emerging from the darkness. She dances. They are finally united.
 
 A wonderfully playful poem.
 
 ## Director and Puppet Maker
 
-- Svetlana Zuravska
+- [Svetlana Zuravska](http://lanadesignooak.co.uk/index.html)
 
 ## Manipulation
 
@@ -24,7 +24,8 @@ A wonderfully playful poem.
 
 ### 2017
 
-- Royal Central School of Speech and Drama, London
+- [Royal Central](https://www.cssd.ac.uk) School of Speech and Drama, London
+
 
 Photographer of performance images Jemima Yong
 
