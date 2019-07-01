@@ -37,6 +37,5 @@ Photographer of finished puppet [Tim Elverston](http://windfiredesigns.com/Tim-E
 [![Figure]({{ "/assets/Marionette/M 25.jpeg" | absolute_url }})]({{ "/assets big/Marionette/M 25.jpeg" | absolute_url }})
 [![Figure]({{ "/assets/Marionette/M 26.jpeg" | absolute_url }})]({{ "/assets big/Marionette/M 26.jpeg" | absolute_url }})
 [![Figure]({{ "/assets/Marionette/M 27.jpg" | absolute_url }})]({{ "/assets big/Marionette/M 27.jpg" | absolute_url }})
-[![Figure]({{ "/assets/Other/M 0b.jpg" | absolute_url }})]({{ "/assets big/Other/M 0b.jpg" | absolute_url }})
+[![Figure]({{ "/assets/Marionette/M 0b.jpg" | absolute_url }})]({{ "/assets big/Marionette/M 0b.jpg" | absolute_url }})
 [![Figure]({{ "/assets/Marionette/M 28.jpeg" | absolute_url }})]({{ "/assets big/Marionette/M 28.jpeg" | absolute_url }})
-
