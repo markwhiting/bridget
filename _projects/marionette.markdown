@@ -6,9 +6,9 @@ end: 2018-01-22
 
  <!-- and [![Figure]({{ "/assets/Marionette/M 0a.jpeg.jpeg" | absolute_url }})]({{ "/assets big/Marionette/M 0a.jpeg.jpeg" | absolute_url }}) -->
 
-A Marionette made in a workshop with John Roberts. Instant life on strings.
+A Marionette. Made in a workshop with [John Roberts](https://www.puppetcraft.co.uk). Instant life on strings.
 
-Photographer of finished puppet Tim Elverston.
+Photographer of finished puppet [Tim Elverston](http://windfiredesigns.com/Tim-Elverston-Portfolio.html).
 
 [![Figure]({{ "/assets/Marionette/M 1.jpeg" | absolute_url }})]({{ "/assets big/Marionette/M 1.jpeg" | absolute_url }})
 [![Figure]({{ "/assets/Marionette/M 2.jpeg" | absolute_url }})]({{ "/assets big/Marionette/M 2.jpeg" | absolute_url }})
