@@ -4,11 +4,11 @@ image: /assets/GlovePuppet/GP finished 0.jpeg
 end: 2016-11-01
 ---
 
-Perhaps almost a self portrait, this glove puppet, half human half angle, was inspired by bent metal painted face sculpture by Picasso and Paul Klee’s puppets.
+A cubist angle.
 
-Made in a workshop with Isabel Lyster
+Perhaps almost a self portrait, this glove puppet, half human half angel, was inspired by a bent metal painted face sculpture of Picasso and by Paul Klee’s puppets.
 
-## Finished
+Made in a workshop with [Isabel Lyster](https://www.isabellyster.com)
 
 [![Figure]({{ "/assets/GlovePuppet/GP finished 1.jpeg" | absolute_url }})]({{ "/assets big/GlovePuppet/GP finished 1.jpeg" | absolute_url }})
 [![Figure]({{ "/assets/GlovePuppet/GP finished 2.jpeg" | absolute_url }})]({{ "/assets big/GlovePuppet/GP finished 2.jpeg" | absolute_url }})
@@ -21,7 +21,7 @@ Made in a workshop with Isabel Lyster
 [![Figure]({{ "/assets/GlovePuppet/GP finished 7.jpeg" | absolute_url }})]({{ "/assets big/GlovePuppet/GP finished 7.jpeg" | absolute_url }})
 [![Figure]({{ "/assets/GlovePuppet/GP finished 8.jpeg" | absolute_url }})]({{ "/assets big/GlovePuppet/GP finished 8.jpeg" | absolute_url }})
 
-## The Process
+# Process
 
 [![Figure]({{ "/assets/GlovePuppet/GP process 1.jpeg" | absolute_url }})]({{ "/assets big/GlovePuppet/GP process 1.jpeg" | absolute_url }})
 [![Figure]({{ "/assets/GlovePuppet/GP process 1.jpeg" | absolute_url }})]({{ "/assets big/GlovePuppet/GP process 1.jpeg" | absolute_url }})
@@ -39,6 +39,6 @@ Made in a workshop with Isabel Lyster
 [![Figure]({{ "/assets/GlovePuppet/GP process 14.jpeg" | absolute_url }})]({{ "/assets big/GlovePuppet/GP process 14.jpeg" | absolute_url }})
 [![Figure]({{ "/assets/GlovePuppet/GP process 15.jpeg" | absolute_url }})]({{ "/assets big/GlovePuppet/GP process 15.jpeg" | absolute_url }})
 
-## Puppeteer and Puppet
+# Puppeteer and Puppet
 
 [![Figure]({{ "/assets/GlovePuppet/GP puppet and puppeter.jpeg" | absolute_url }})]({{ "/assets big/GlovePuppet/GP puppet and puppeter.jpeg" | absolute_url }})
