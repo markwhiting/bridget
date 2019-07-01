@@ -51,7 +51,7 @@ I was a performer, a puppet manipulator, as well as the designer and maker of th
 - Yanai Peri
 - Bryony Moores O’Sullivan
 - Bridget Whiting
-- Svetlana Zuravska
+- [Svetlana Zuravska](http://lanadesignooak.co.uk/index.html)
 
 ## Venues
 
