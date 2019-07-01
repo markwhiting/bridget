@@ -4,7 +4,7 @@ image: /assets/StormExercise/Janina Lange Performance 1.jpeg
 end: 2018-05-17
 ---
 
-A live Foley soundscape performed at the opening night of Low Batt., an exhibition at the [TURF](http://turf-projects.com/about-turf/) gallery in London exposing our dependency on technology.
+A live Foley soundscape performed at the opening night of *Low Batt.*, an exhibition at the [TURF](http://turf-projects.com/about-turf/) gallery in London exposing our dependency on technology.
 
 At first there is a wind, then a patter of rain which grows into a storm. The wind increases and a window breaks. The sound of what must be the sea becomes louder. Gradually the storm subsides, only the calm of lapping water remains.
 
