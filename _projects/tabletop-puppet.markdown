@@ -8,7 +8,7 @@ end: 2017-02-01
 
 Yet to be finished. A table top puppet struggling to live.
 
-Made in a workshop with Isabel Lyster
+Made in a workshop with [Isabel Lyster](https://www.isabellyster.com)
 
 [![Figure]({{ "/assets/TabletopPuppet/TP 1 first drawings.jpeg" | absolute_url }})]({{ "/assets big/TabletopPuppet/TP 1 first drawings.jpeg" | absolute_url }})
 [![Figure]({{ "/assets/TabletopPuppet/TP 2 inrtaducing structure.jpeg" | absolute_url }})]({{ "/assets big/TabletopPuppet/TP 2 inrtaducing structure.jpeg" | absolute_url }})
