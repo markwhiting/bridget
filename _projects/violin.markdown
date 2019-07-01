@@ -5,9 +5,9 @@ start: 2017-10-02
 end: 2017-11-24
 ---
 
-A Puppet performance devised from Vladimir Mayakovskiy’s poem, “The Violin — A Little Bit Nervous” performed to Paganini’s ‘La campanella’.
+A Puppet performance devised from Vladimir Mayakovskiy’s poem, “The Violin — A Little Bit Nervous,” performed to Paganini’s ‘La campanella’.
 
-A Violin becomes overworked, its musician walks away. Lonely, the Violin does not notice its other half — its soul-mate —emerging from the darkness. She dances. They are finally united.
+A Violin becomes overworked, its musician walks away. Lonely, the Violin does not notice its other half emerging from the darkness. She dances. Whole again.
 
 A wonderfully playful poem.
 
