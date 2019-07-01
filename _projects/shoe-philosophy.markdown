@@ -17,18 +17,17 @@ Shoes hold the rhythm of terrestrial existence. They hold the conscious being to
 
 # Shoe Opera — current project
 
-My curent project is about shoes and opera, a Shoe Opera.
 The initial idea of a Shoe Opera, an opera with shoes as protagonists, involving music, Foley, object manipulation and stop motion, came in two parts. First as a Shoe — the shoe as object expressing itself through its style and wear; and then as an Opera — a genre through which the inner life of the shoe could be emotionally felt. So what emotions can a shoe profess to hold? What can it tell of its materials, life and history?
 
-With this concept of a Shoe Opera I have been exploring if shoes can sing of themselves just as do self-reflecting protagonists in German Lieder? Or in Opera, can shoes engage in heartfelt dialogue?
+With this concept of a Shoe Opera I have been exploring if shoes can sing of themselves just as self-reflecting protagonists in German Lieder do? Or in Opera, can shoes engage in heartfelt dialogue?
 
 [![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoe arch.jpeg" | absolute_url }})]({{ "/assets big/ShoePhilosophy/ShoeOpera/shoe arch.jpeg" | absolute_url }})
 
 ## Foley — the art of making sound effects
 
-Working with Foley artist [Ruth Sullivan](https://www.ruthsullivan.co.uk) we been testing the relationship of shoes with Foley.
+Working with Foley artist [Ruth Sullivan](https://www.ruthsullivan.co.uk), we have been testing the relationship of shoes with Foley.
 
-Foley as the voice for the shoes, or their movement, or their environment….
+Foley as the voice of the shoes, or their movement, or their environment….
 
 What we did find was that the metaphorical abstract nature of the shoe in object manipulation finds a good match in the hypernatural sound of the Foley. For a member of the audience the sounds of Foley are what bring the movements and characters of the shoes back to earth; the sound humanises the story.
 
@@ -38,9 +37,7 @@ What we did find was that the metaphorical abstract nature of the shoe in object
 
 ## Music and Objects: Opera and Puppetry
 
-Testing the relations of shoes as puppets and music/opera/song.
-
-Current collaboration with sopranos Pauline Schill and Rose Stachniewska.
+Testing the relationship of shoes as puppets to music/opera/song.
 
 [![Figure]({{ "/assets/ShoePhilosophy/ShoeOpera/shoes music excersises combined.png" | absolute_url }})]({{ "/assets big/ShoePhilosophy/ShoeOpera/shoes music excersises combined.png" | absolute_url }})
 
