@@ -6,7 +6,7 @@ end: 2018-05-17
 
 A live Foley soundscape performed at the opening night of Low Batt., an exhibition at the [TURF](http://turf-projects.com/about-turf/) gallery in London exposing our dependency on technology.
 
-At first there is a wind, then a patter of rain which grows into a storm. The wind incresses and a window brakes. The sound of what must be the sea becomes louder. Gradually the storm subsides, only the calm water lapping remains.
+At first there is a wind, then a patter of rain which grows into a storm. The wind increases and a window breaks. The sound of what must be the sea becomes louder. Gradually the storm subsides, only the calm of lapping water remains.
 
 [More about the exhibition](http://turf-projects.com/low-batt/)
 
