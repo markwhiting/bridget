@@ -251,7 +251,14 @@
   margin: 0 0 $spacing-unit/4 $spacing-unit/4;
   padding: 0;
   max-width: 40%;
-  height: fit-content;
+  max-height: 15rem;
+}
+
+.headerImage {
+  float: right;
+  margin: 0 0 $spacing-unit/4 $spacing-unit/4;
+  padding: 0;
+  max-width: 25%;
 }
 
 .post-content {
@@ -282,6 +289,10 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+  }
+
+  img {
+    max-height: 15rem;
   }
 }
 

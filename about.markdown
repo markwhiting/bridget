@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-<img class="heroImage" src="{{ "/assets/Other/foxy long distance.jpeg" | absolute_url }}" />
+<img class="headerImage" src="{{ "/assets/Other/foxy long distance.jpeg" | absolute_url }}" />
 
 A recent graduate of Royal Central School of Speech and Drama in Puppetry, Bridget Whiting is an emerging interdisciplinary artist with an interest in object theatre, Foley, stop-motion and opera.
 
