@@ -42,6 +42,8 @@ Collaborating with puppetry students at [VŠMU](https://www.vsmu.sk/en/), Academ
 
 - [VŠMU](https://www.vsmu.sk/en/), Academy of Performing Arts Bratislava, Slovakia
 
+# Performance
+
 [![Figure]({{ "/assets/Anatomia/anatomia 1.jpg" | absolute_url }})]({{ "/assets big/Anatomia/anatomia 1.jpg" | absolute_url }})
 [![Figure]({{ "/assets/Anatomia/anatomia 2.jpg" | absolute_url }})]({{ "/assets big/Anatomia/anatomia 2.jpg" | absolute_url }})
 [![Figure]({{ "/assets/Anatomia/anatomia 3.jpg" | absolute_url }})]({{ "/assets big/Anatomia/anatomia 3.jpg" | absolute_url }})
