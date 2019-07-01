@@ -5,7 +5,7 @@ start: 2017-04-10
 end: 2017-07-25
 ---
 
-The Empress by Tanika Gupta examines the exploitation of Indian servants in Victorian London.
+*The Empress* by Tanika Gupta examines the exploitation of Indian servants in Victorian London.
 
 As head puppeteer I had two jobs: to create the children and to evoke the remembered descriptions of India. 
 
