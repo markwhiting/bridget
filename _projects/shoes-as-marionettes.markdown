@@ -4,9 +4,9 @@ image: /assets/ShoePhilosophy/MarrionetteShoes/0 shoes together.png
 end: 2017-10-08
 ---
 
-As a final project in an internship at the Puppet Theatre Barge, a marionette theatre in London, I made my first performance with shoes. Marionette Shoes.
+As a final project in an internship at the [Puppet Theatre Barge](https://www.puppetbarge.com), a marionette theatre in London, I made my first performance with shoes. Marionette Shoes.
 
-A Little Shoe preparing her stage and herself for a performance is suddenly interrupted by the entrance of a Big Boot. At first dubious, it takes some time for the Little Shoe to acknowledge this new arrival, but, after she cleans him, she accepts him, even letting him join in her dance. They dance together to Fats Waller singing Your Feet’s too Big. By the end they are friends. At the very end, however, Sock comes on for the curtain call, taking all the applause..… This project was successful because of clear directing.
+A Little Shoe preparing her stage and herself for a performance is suddenly interrupted by the entrance of a Big Boot. At first dubious it takes some time for the Little Shoe to acknowledge this new arrival, but, after she cleans him, she accepts him, even letting him join in her dance. They dance together to Fats Waller singing 'Your Feet’s too Big'. By the end they are friends. At the very end, however, Sock comes on for the curtain call, taking all the applause. 
 
 ## Director
 
@@ -37,6 +37,8 @@ A Little Shoe preparing her stage and herself for a performance is suddenly inte
 - Puppet Theatre Barge, London
 - Royal Central School of Speech and Drama, London
 
+# Process
+
 First ideas of a shoe marionette show. A traveling show in a box.
 
 [![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/shoe box notes 1.png" | absolute_url }})]({{ "/assets big/ShoePhilosophy/MarrionetteShoes/shoe box notes 1.png" | absolute_url }})
@@ -57,7 +59,7 @@ Controls for all participants: the Little Shoe, the Boot, the mirror and the han
 [![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/control4 notes other.png" | absolute_url }})]({{ "/assets big/ShoePhilosophy/MarrionetteShoes/control4 notes other.png" | absolute_url }})
 [![Figure]({{ "/assets/ShoePhilosophy/MarrionetteShoes/controls5 made.jpg" | absolute_url }})]({{ "/assets big/ShoePhilosophy/MarrionetteShoes/controls5 made.jpg" | absolute_url }})
 
-## The result:
+# Performance
 
 Admiring
 
