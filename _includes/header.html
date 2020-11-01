@@ -4,7 +4,7 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}">{% if page.url != "/" %}<span class="noPrint">← </span>{% endif %}{{ site.title | escape }}</a>
-    <p class="headerComment clean onlyPrint"><span class="light">Updated {{ site.time | date: "%b %d, %Y" }}</span></p>
+    <p class="headerComment clean onlyPrint"><span class="light">{{ site.time | date: "%e %B, %Y" }}</span></p>
 
     {% if page_paths %}
       <nav class="site-nav">
