@@ -1,0 +1,10 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "bundle exec jekyll serve"
+    }
+  },
+  "identifier" : "DD8505BA-BFC7-467C-8AF5-AEFE49E347B8",
+  "openLogOnRun" : "fail"
+}
