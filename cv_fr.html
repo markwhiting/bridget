@@ -21,7 +21,7 @@ src="{{ "/assets/Other/Bridget headshot 2021.jpeg" | absolute_url }}" />
     </td>
   </tr>
   <!-- Main CV -->
-  {%- assign experienceTypes = "Education,Experience,Productions" | split:
+  {%- assign experienceTypes = "Formation,Expérience,Projets" | split:
   ","-%} {%- for experienceType in experienceTypes -%} {%- assign experienceSet
   = site.data.CV_fr | where:"type", experienceType | sort: "dateStart"| reverse -%}
   {%- if experienceSet.size > 0 -%}
