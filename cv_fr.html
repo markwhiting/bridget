@@ -1,0 +1,100 @@
+---
+layout: default
+permalink: /cv_fr
+---
+
+<!-- Set up date formats -->
+{%- assign yearFull = site.minima.date_format | default: "%Y" -%} {%- assign
+yearShort = site.minima.date_format | default: "%y" -%} <img class="headerImage"
+src="{{ "/assets/Other/Bridget headshot 2021.jpeg" | absolute_url }}" />
+
+<!-- Single table for entire CV -->
+<table class="clean">
+  <tr>
+    <td></td>
+    <td class="row">
+      <strong>Student in Theater and Arts. Shoe Conductor</strong>
+      <p class="light note">
+        <a href="mailto:bridget.whiting@gmail.com">bridget.whiting@gmail.com</a>
+        & +33 6 95 91 14 35
+      </p>
+    </td>
+  </tr>
+  <!-- Main CV -->
+  {%- assign experienceTypes = "Education,Experience,Productions" | split:
+  ","-%} {%- for experienceType in experienceTypes -%} {%- assign experienceSet
+  = site.data.CV_fr | where:"type", experienceType | sort: "dateStart"| reverse -%}
+  {%- if experienceSet.size > 0 -%}
+  <tr>
+    <td colspan="2">
+      <h2 class="section">{{ experienceType }}</h2>
+    </td>
+  </tr>
+  {%- for experience in experienceSet -%}
+  <tr>
+    {%- capture startDate -%}{{
+      experience.dateStart | date: yearFull
+    }}{%- endcapture -%} {%- capture endDate -%}{{
+      experience.dateEnd | date: yearFull
+    }}{%- endcapture -%}
+    <td class="left light small">
+      {{ experience.dateStart | date: yearFull }} {%- if startDate != endDate
+      -%} {%- if experience.dateEnd -%} –{{
+        experience.dateEnd | date: yearShort
+      }}
+      {%- else -%} {{ "→" }} {%- endif -%} {%- endif -%}
+    </td>
+    <td class="row">
+      {% if experience.url %}<a href="{{ experience.url }}"
+        >{%endif%}
+        <strong
+          >{%- if experience.type == "Productions" -%}<i
+            >{%endif%}{{ experience.title }}{%- if experience.type ==
+            "Productions" -%}</i
+          >{%endif%}</strong
+        >{% if experience.url %}</a
+      >{%endif%}{% if experience.role %}, {{ experience.role }}{%endif%}{% if
+      experience.location %},
+      <span class="light note">{{ experience.location }}</span
+      >{%endif%} {% if experience.notes %}
+      <span class="light note">{{ experience.notes | markdownify }}</span
+      >{%endif%}
+    </td>
+  </tr>
+
+  {%- endfor -%} {%- endif -%} {%- endfor -%}
+
+  </tr>
+
+  <!--   <td colspan="2"> -->
+  <!--     <h2 class="section">References</h2> -->
+  <!--   </td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+  <!--   <td colspan="2" class="row"> -->
+  <!--     <strong>Rene Baker</strong>, Specialist in Puppet and Object Theatre -->
+  <!--     <p class="light note"> -->
+  <!--       <a href="mailto:bakerrene@hotmail.com">bakerrene@hotmail.com</a> -->
+  <!--     </p> -->
+  <!--   </td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+  <!--   <td colspan="2" class="row"> -->
+  <!--     <strong>Ruth Sullivan</strong>, Artist and Actor -->
+  <!--     <p class="light note"> -->
+  <!--       <a href="mailto:rubyrocks76@gmail.com">rubyrocks76@gmail.com</a> & +44 -->
+  <!--       (0)79 7027 9061 -->
+  <!--     </p> -->
+  <!--   </td> -->
+  <!-- </tr> -->
+  <!-- <tr> -->
+  <!--   <td colspan="2" class="row"> -->
+  <!--     <strong>Darren East</strong>, Puppeteer and Puppet Director, Co-founder of -->
+  <!--     the Brighton Puppetry School -->
+  <!--     <p class="light note"> -->
+  <!--       <a href="mailto:darreneast@gmail.com">darreneast@gmail.com</a> & -->
+  <!--       TouchedTheatre 7 Cliff Rd, Brighton BN2 5RD, United Kingdom -->
+  <!--     </p> -->
+  <!--   </td> -->
+  <!-- </tr> -->
+</table>
