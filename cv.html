@@ -22,7 +22,7 @@ src="{{ "/assets/Other/CV puppet and puppeter.jpeg" | absolute_url }}" />
     </td>
   </tr>
   <!-- Main CV -->
-  {%- assign experienceTypes = "Education,Experience,Productions" | split:
+  {%- assign experienceTypes = "Education,Experience,Projects" | split:
   ","-%} {%- for experienceType in experienceTypes -%} {%- assign experienceSet
   = site.data.CV | where:"type", experienceType | sort: "dateStart"| reverse -%}
   {%- if experienceSet.size > 0 -%}
